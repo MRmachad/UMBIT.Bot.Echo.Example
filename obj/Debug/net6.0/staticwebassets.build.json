@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9bGkIaiy+eJHOWFkVKfSYDxb08yXsTB2iX/yelmjHHY=",
+  "Source": "UMBIT.Echo.Example",
+  "BasePath": "_content/UMBIT.Echo.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UMBIT.Echo.Example\\wwwroot",
+      "Source": "UMBIT.Echo.Example",
+      "ContentRoot": "D:\\Dev\\ByMySelf\\Pessoal\\UMBIT.Echo.Example\\UMBIT.Echo.Example\\wwwroot\\",
+      "BasePath": "_content/UMBIT.Echo.Example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Dev\\ByMySelf\\Pessoal\\UMBIT.Echo.Example\\UMBIT.Echo.Example\\wwwroot\\default.htm",
+      "SourceId": "UMBIT.Echo.Example",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\ByMySelf\\Pessoal\\UMBIT.Echo.Example\\UMBIT.Echo.Example\\wwwroot\\",
+      "BasePath": "_content/UMBIT.Echo.Example",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
